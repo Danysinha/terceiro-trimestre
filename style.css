@@ -3,5 +3,8 @@ body {
 }
 footer {
     background-color: black;
-    color: white;
+    color: white; 
+    position: inherit;
+    bottom: 0;
+    width: 100%;
 }
